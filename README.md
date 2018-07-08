@@ -4,6 +4,7 @@ matlab and simulink files for JHU EP Digital Signal Processing course
 Summer semester 2018, online
 
 Instructors
+
 Clint Edwards
 E-mail: DrClintEdwards@gmail.com
 
